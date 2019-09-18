@@ -78,6 +78,15 @@ We can work with that, let's chat more prior to the course starting.
   - Create an account and join following the [Montana Programmers](https://www.meetup.com/Montana-Programmers/) and [Bozeman JavaScript Meetup](https://www.meetup.com/Bozeman-JavaScript-Meetup/) groups.
   - These meetups are a perfect way to meet developers in Bozeman. Especially if you are looking to get a developer job, having a personal connection with some can be an easy way into a company!
 
+### Install some VS Code Extensions
+
+Open VS Code and click on the "Extensions" symbol in the left hand pane. Search and install following extensions:
+
+- Duplicate Action
+- Git Graph
+- Git Lens
+- Live Share Extension Pack
+
 ### Lose Your Terminal Fear
 
 Visual Studio Code comes with a built-in Terminal. However the standard Terminal is boring. Let's make it pretty!
